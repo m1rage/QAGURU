@@ -3,6 +3,6 @@ package guru.qa;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("hi qa!!!!");
+        System.out.println("hi qASasda!!!!");
     }
 }
